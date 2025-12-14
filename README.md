@@ -170,7 +170,7 @@ Device:  CUDA (GPU)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/chenshi20250824-a11y/7-class-bert.git
+git clone https://github.com/chenshi20250824-a11y/finbert-sentiment-analysis.git
 cd finbert-sentiment-analysis
 ```
 
@@ -427,7 +427,7 @@ Pre-tax loss totaled euro 0.3 million ,compared to a loss of euro 2.2 million in
 
 -  Email: MC56586@um.edu.mo
 -  Institution: [University Of Macau]
--  GitHub: [@chenshi20250824-a11y](https://github.com/chenshi20250824-a11y/7-class-bert.git)
+-  GitHub: [@chenshi20250824-a11y](https://github.com/chenshi20250824-a11y/finbert-sentiment-analysis.git)
 
 ---
 
@@ -478,8 +478,8 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or suggestions, please contact via: 
 
 -  Email: MC56586@um.edu.mo
--  Submit [Issue](https://github.com/chenshi20250824-a11y/7-class-bert.git)
--  Submit [Pull Request](https://github.com/chenshi20250824-a11y/7-class-bert.git)
+-  Submit [Issue](https://github.com/chenshi20250824-a11y/finbert-sentiment-analysis.git)
+-  Submit [Pull Request](https://github.com/chenshi20250824-a11y/finbert-sentiment-analysis.git)
 
 ---
 
