@@ -1,0 +1,59 @@
+{
+  "label2id": {
+    "crash": 0,
+    "drop": 1,
+    "small_drop": 2,
+    "stable": 3,
+    "small_rise": 4,
+    "rise": 5,
+    "surge": 6
+  },
+  "id2label": {
+    "0": "crash",
+    "1": "drop",
+    "2": "small_drop",
+    "3": "stable",
+    "4": "small_rise",
+    "5": "rise",
+    "6": "surge"
+  },
+  "label_info": {
+    "crash": {
+      "name": "大跌",
+      "range": "< -5%"
+    },
+    "drop": {
+      "name": "中跌",
+      "range": "-5% ~ -2%"
+    },
+    "small_drop": {
+      "name": "小跌",
+      "range": "-2% ~ -1%"
+    },
+    "stable": {
+      "name": "震荡",
+      "range": "-1% ~ 1%"
+    },
+    "small_rise": {
+      "name": "小涨",
+      "range": "1% ~ 2%"
+    },
+    "rise": {
+      "name": "中涨",
+      "range": "2% ~ 5%"
+    },
+    "surge": {
+      "name": "大涨",
+      "range": "> 5%"
+    }
+  },
+  "labels_order": [
+    "crash",
+    "drop",
+    "small_drop",
+    "stable",
+    "small_rise",
+    "rise",
+    "surge"
+  ]
+}

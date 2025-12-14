@@ -1,0 +1,27 @@
+{
+  "model_name": "ProsusAI/finbert",
+  "num_labels": 7,
+  "labels": [
+    "crash",
+    "drop",
+    "small_drop",
+    "stable",
+    "small_rise",
+    "rise",
+    "surge"
+  ],
+  "training_params": {
+    "num_epochs": 10,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "max_length": 128,
+    "early_stopping_patience": 3
+  },
+  "data_file": "financial_data/training_data_7class.csv",
+  "test_accuracy": 0.3023070803500398,
+  "test_f1": 0.31562508136931855,
+  "training_duration": "0:08:00.194339",
+  "timestamp": "2025-12-13 22:31:35"
+}
